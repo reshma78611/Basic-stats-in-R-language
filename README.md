@@ -1,8 +1,8 @@
 # Basic Statistics using R
 
 Basic Statistic operations such as :
-1. Measures of central tendency(Mean, Median,Mode)
-2. Measures of Dispersion(Variance,Standard deviation,Range)
+1. Measures of central tendency ( Mean, Median,Mode )
+2. Measures of Dispersion ( Variance,Standard deviation,Range )
 3. Skewness
 4. Kurtosis
 5. Normal Distribution
