@@ -57,6 +57,6 @@ Basic Statistical operations such as :
 
         Q7,Q9_a,Cars
         
-## Programming:
+## Programming :
 
         R - Language
