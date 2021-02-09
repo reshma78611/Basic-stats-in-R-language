@@ -4,24 +4,24 @@ Basic Statistical operations such as :
 
 ## 1. Measures of central tendency : 
 
-                        *which tells about where centre of data is lying
+                        *which tells about where centre of data is lying*
 
-        **1. Mean:  
+        **1. Mean:**  
                 Mean or average = (sum of elements/Total number of elements) 
-        **2. Median:
+        **2. Median:**
                  Median is the middle most value
-        **3. Mode:
+        **3. Mode:**
                 It is most Frequent Value
 
 ## 2. Measures of Dispersion: 
 
-                        *Dispersion from the mean
+                        *Dispersion from the mean*
 
-       **1.Variance:
+       **1.Variance:**
                 The measure of variance from the mean
-       **2.Standard Deviation:
+       **2.Standard Deviation:**
                 Variance has sq units which is unacceptable practically so we go for standard deviation (sqrt(variance))
-       **3.Range:
+       **3.Range:**
                 Range=Max-Min
                 
 ## 3. Skewness:
