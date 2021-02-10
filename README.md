@@ -1,6 +1,6 @@
 # Basic Statistics using R
 
-Basic Statistical operations such as :
+## Basic Statistical operations such as :
 
 ## 1. Measures of central tendency : 
 
@@ -60,3 +60,6 @@ Basic Statistical operations such as :
 ## Programming :
 
         R - Language
+        
+ ## **The Codes regarding Basic Statistical operations and their datasets are present in this Repository in detail**
+          
